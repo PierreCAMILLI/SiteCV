@@ -1,0 +1,21 @@
+{
+  "name": "pierrecamilli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierreCAMILLI/SiteCV.git"
+  },
+  "author": "Pierre CAMILLI",
+  "license": "ISC",
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/PierreCAMILLI/SiteCV/issues"
+  },
+  "homepage": "https://github.com/PierreCAMILLI/SiteCV#readme",
+  "devDependencies": {},
+  "description": ""
+}
